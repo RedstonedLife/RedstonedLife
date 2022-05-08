@@ -1,4 +1,4 @@
-<strong>👋 Hey, I am a software engineer with 5 years experience.</strong>
+<strong>life ← {⊃1 ⍵ ∨.∧ 3 4 = +/ +⌿ ¯1 0 1 ∘.⊖ ¯1 0 1 ⌽¨ ⊂⍵}</strong>
 
 
 ---

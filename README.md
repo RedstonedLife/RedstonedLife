@@ -20,8 +20,9 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedstonedLife&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff)
+![](https://github-readme-stats.vercel.app/api?username=RedstonedLife&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RedstonedLife&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedstonedLife&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedstonedLife&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/RedstonedLife)  <img src="https://img.shields.io/github/followers/RedstonedLife?label=Follow" style=" float:left, margin-right:10px" />

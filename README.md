@@ -188,7 +188,3 @@
 </details>
 <br/>
 </details> 
-
-
-
-![Profile views](https://gpvc.arturio.dev/RedstonedLife)  <img src="https://img.shields.io/github/followers/RedstonedLife?label=Follow" style=" float:left, margin-right:10px" />
